@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: e2481e3c8adfc58429f9dda16dcf8a45
+  - enabled: 1
+    path: Assets/Scenes/SlotMachineScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MinigameScene.unity
+    guid: 958c4210c465d4341b0d45f3e5034ec5
+  - enabled: 1
+    path: Assets/Scenes/BankScene.unity
+    guid: 8488072bc76208648939b39ff5138837
+  - enabled: 1
+    path: Assets/Scenes/RaycastGame.unity
+    guid: 534c055de47caba47bf024324a3512b0
+  - enabled: 1
+    path: Assets/Scenes/GemsMachine.unity
+    guid: 3c8dcf50c527cd44694a4668df9e2d80
+  m_configObjects: {}
