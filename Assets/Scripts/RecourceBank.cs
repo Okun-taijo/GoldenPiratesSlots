@@ -53,7 +53,7 @@ public class RecourceBank : MonoBehaviour
     public void SpendChips(int price)
     {
         chips -= price;
-        ChangeGoldText();
+        ChangeChipsText();
         SavePrefs();
     }
 }
