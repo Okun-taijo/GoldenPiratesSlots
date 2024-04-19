@@ -2730,6 +2730,7 @@ MonoBehaviour:
   _jackpotAudio: {fileID: 607707362}
   _minimumPosition: -0.2
   _maximumPosition: 0.5
+  _scenesLinks: {fileID: 715751963}
 --- !u!1 &1374669874
 GameObject:
   m_ObjectHideFlags: 0
